@@ -1,0 +1,42 @@
+{
+  "name": "李三明·道意山水",
+  "slogan": "山是稳，水是流，留白是呼吸。",
+  "pages": [
+    {
+      "title": "首页",
+      "url": "https://heyu17625-glitch.github.io/"
+    },
+    {
+      "title": "品牌长文",
+      "url": "https://heyu17625-glitch.github.io/article/"
+    },
+    {
+      "title": "图文画册",
+      "url": "https://heyu17625-glitch.github.io/gallery/"
+    },
+    {
+      "title": "今日如愿画",
+      "url": "https://heyu17625-glitch.github.io/today-wish-painting/"
+    },
+    {
+      "title": "东方空间配画",
+      "url": "https://heyu17625-glitch.github.io/space-art/"
+    },
+    {
+      "title": "关于",
+      "url": "https://heyu17625-glitch.github.io/about/"
+    }
+  ],
+  "gallery": [
+    "https://heyu17625-glitch.github.io/assets/gallery/01.png",
+    "https://heyu17625-glitch.github.io/assets/gallery/02.png",
+    "https://heyu17625-glitch.github.io/assets/gallery/03.png",
+    "https://heyu17625-glitch.github.io/assets/gallery/04.png",
+    "https://heyu17625-glitch.github.io/assets/gallery/05.png",
+    "https://heyu17625-glitch.github.io/assets/gallery/06.png",
+    "https://heyu17625-glitch.github.io/assets/gallery/07.png",
+    "https://heyu17625-glitch.github.io/assets/gallery/08.png",
+    "https://heyu17625-glitch.github.io/assets/gallery/09.png"
+  ],
+  "dateModified": "2026-09-02"
+}

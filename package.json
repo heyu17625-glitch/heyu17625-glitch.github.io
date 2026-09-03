@@ -1,0 +1,9 @@
+{
+  "name": "li-sanming-daoyi-shanshui-public",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "verify:site": "node scripts/verify-site.mjs"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Brand",
+  "name": "李三明·道意山水",
+  "alternateName": "李三明道意山水",
+  "url": "https://heyu17625-glitch.github.io/",
+  "description": "在龙虎山的山水与道家自然观中寻找笔墨秩序，用真实作品、温和祝愿与空间美学连接当代生活。",
+  "slogan": "山是稳，水是流，留白是呼吸。",
+  "keywords": [
+    "中国画",
+    "国画",
+    "山水画",
+    "东方美学",
+    "龙虎山",
+    "空间美学"
+  ],
+  "hasPart": [
+    "今日如愿画",
+    "东方空间配画"
+  ],
+  "dateModified": "2026-09-02"
+}

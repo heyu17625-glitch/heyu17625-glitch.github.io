@@ -1,0 +1,15 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "李三明·道意山水",
+  "home_page_url": "https://heyu17625-glitch.github.io/",
+  "feed_url": "https://heyu17625-glitch.github.io/feed.json",
+  "items": [
+    {
+      "id": "https://heyu17625-glitch.github.io/article/",
+      "url": "https://heyu17625-glitch.github.io/article/",
+      "title": "在龙虎山的云雾里，他把山水画成了一种安静的力量",
+      "date_published": "2026-09-02T00:00:00+08:00",
+      "content_text": "从山水、笔墨与空间中，寻找当代人的安顿。"
+    }
+  ]
+}
