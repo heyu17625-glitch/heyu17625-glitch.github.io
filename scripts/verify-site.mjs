@@ -3,7 +3,7 @@ import path from "node:path";
 
 const DIST = path.resolve("dist");
 const BRAND = "李三明·道意山水";
-const BASE_URL = (process.env.PUBLIC_BASE_URL ?? "https://heyu17625-glitch.github.io").replace(/\/$/, "") + "/";
+const BASE_URL = (process.env.PUBLIC_BASE_URL ?? "https://daoyishanshui.pages.dev").replace(/\/$/, "") + "/";
 const PAGE_FILES = [
   "index.html",
   "article/index.html",

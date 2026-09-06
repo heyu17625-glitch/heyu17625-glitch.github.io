@@ -10,7 +10,7 @@
 - 收束语：愿见者如愿。
 
 ## 主要页面
-- https://heyu17625-glitch.github.io/article/
-- https://heyu17625-glitch.github.io/gallery/
-- https://heyu17625-glitch.github.io/today-wish-painting/
-- https://heyu17625-glitch.github.io/space-art/
+- https://daoyishanshui.pages.dev/article/
+- https://daoyishanshui.pages.dev/gallery/
+- https://daoyishanshui.pages.dev/today-wish-painting/
+- https://daoyishanshui.pages.dev/space-art/

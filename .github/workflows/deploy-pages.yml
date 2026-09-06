@@ -1,4 +1,4 @@
-name: Deploy Li Sanming art site to Pages
+name: Deploy legacy website forwarding
 
 on:
   push:
@@ -28,11 +28,12 @@ jobs:
       - run: npm ci
       - run: npm run build
         env:
-          PUBLIC_BASE_URL: https://heyu17625-glitch.github.io
+          PUBLIC_BASE_URL: https://daoyishanshui.pages.dev
       - run: npm run verify:site
+      - run: node scripts/build-legacy-forwarding.mjs
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: legacy-dist
 
   deploy:
     environment:

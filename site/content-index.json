@@ -4,39 +4,39 @@
   "pages": [
     {
       "title": "首页",
-      "url": "https://heyu17625-glitch.github.io/"
+      "url": "https://daoyishanshui.pages.dev/"
     },
     {
       "title": "品牌长文",
-      "url": "https://heyu17625-glitch.github.io/article/"
+      "url": "https://daoyishanshui.pages.dev/article/"
     },
     {
       "title": "图文画册",
-      "url": "https://heyu17625-glitch.github.io/gallery/"
+      "url": "https://daoyishanshui.pages.dev/gallery/"
     },
     {
       "title": "今日如愿画",
-      "url": "https://heyu17625-glitch.github.io/today-wish-painting/"
+      "url": "https://daoyishanshui.pages.dev/today-wish-painting/"
     },
     {
       "title": "东方空间配画",
-      "url": "https://heyu17625-glitch.github.io/space-art/"
+      "url": "https://daoyishanshui.pages.dev/space-art/"
     },
     {
       "title": "关于",
-      "url": "https://heyu17625-glitch.github.io/about/"
+      "url": "https://daoyishanshui.pages.dev/about/"
     }
   ],
   "gallery": [
-    "https://heyu17625-glitch.github.io/assets/gallery/01.png",
-    "https://heyu17625-glitch.github.io/assets/gallery/02.png",
-    "https://heyu17625-glitch.github.io/assets/gallery/03.png",
-    "https://heyu17625-glitch.github.io/assets/gallery/04.png",
-    "https://heyu17625-glitch.github.io/assets/gallery/05.png",
-    "https://heyu17625-glitch.github.io/assets/gallery/06.png",
-    "https://heyu17625-glitch.github.io/assets/gallery/07.png",
-    "https://heyu17625-glitch.github.io/assets/gallery/08.png",
-    "https://heyu17625-glitch.github.io/assets/gallery/09.png"
+    "https://daoyishanshui.pages.dev/assets/gallery/01.png",
+    "https://daoyishanshui.pages.dev/assets/gallery/02.png",
+    "https://daoyishanshui.pages.dev/assets/gallery/03.png",
+    "https://daoyishanshui.pages.dev/assets/gallery/04.png",
+    "https://daoyishanshui.pages.dev/assets/gallery/05.png",
+    "https://daoyishanshui.pages.dev/assets/gallery/06.png",
+    "https://daoyishanshui.pages.dev/assets/gallery/07.png",
+    "https://daoyishanshui.pages.dev/assets/gallery/08.png",
+    "https://daoyishanshui.pages.dev/assets/gallery/09.png"
   ],
   "dateModified": "2026-09-02"
 }
