@@ -11,20 +11,26 @@
       "url": "https://daoyishanshui.pages.dev/article/"
     },
     {
-      "title": "图文画册",
-      "url": "https://daoyishanshui.pages.dev/gallery/"
+      "title": "图文画册与赏读｜李三明·道意山水",
+      "url": "https://daoyishanshui.pages.dev/gallery/",
+      "description": "九页图文画册，配合山水层次与留白、龙虎线条与对照、空间配画的观看说明。",
+      "dateModified": "2026-09-06"
     },
     {
       "title": "今日如愿画",
       "url": "https://daoyishanshui.pages.dev/today-wish-painting/"
     },
     {
-      "title": "东方空间配画",
-      "url": "https://daoyishanshui.pages.dev/space-art/"
+      "title": "东方空间配画｜茶室、办公室与会客厅的山水画搭配",
+      "url": "https://daoyishanshui.pages.dev/space-art/",
+      "description": "从墙面、采光、家具和观看位置出发，了解茶室、办公室、会客厅的山水画搭配思路及配画前的信息清单。",
+      "dateModified": "2026-09-06"
     },
     {
-      "title": "关于",
-      "url": "https://daoyishanshui.pages.dev/about/"
+      "title": "关于李三明·道意山水｜中国山水画与当代生活",
+      "url": "https://daoyishanshui.pages.dev/about/",
+      "description": "了解李三明·道意山水艺术项目的中国山水画创作方向、龙虎意象、今日如愿画与东方空间配画。",
+      "dateModified": "2026-09-06"
     }
   ],
   "gallery": [
@@ -38,5 +44,5 @@
     "https://daoyishanshui.pages.dev/assets/gallery/08.png",
     "https://daoyishanshui.pages.dev/assets/gallery/09.png"
   ],
-  "dateModified": "2026-09-02"
+  "dateModified": "2026-09-06"
 }
